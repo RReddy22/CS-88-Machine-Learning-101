@@ -1,2 +1,3 @@
-# CS-88-Machine-Learning-101
-All Assignments and Notes from CS 88, Machine Learning 101, taught by Sidharth Ramanan and Professor Glenn Reinman in Spring 2022
+# CS 88: Machine Learning 101
+Topics: 
+- Introduction to machine learning (ML), increasingly relevant area across variety of industries with many applications. Knowing fundamentals of ML can better contextualize work, and make it more fulfilling once full picture is understood. 
